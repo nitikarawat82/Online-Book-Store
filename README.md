@@ -4,23 +4,24 @@ This project involves downloading multiple CSV files and performing SQL queries 
 ✨ In this project, I worked with three interconnected CSV files using PostgreSQL:
 Orders, Books, and Customers.
 
-The Books dataset contains a unique Book ID
+ - The Books dataset contains a unique Book ID
 
-The Customers dataset contains a unique Customer ID
+ - The Customers dataset contains a unique Customer ID
 
-The Orders dataset links both Book ID and Customer ID, establishing relationships between the tables
+ - The Orders dataset links both Book ID and Customer ID, establishing relationships between the tables
 
 🔍 Using PostgreSQL, I performed basic and advanced SQL queries to:
 
-Analyze customer purchasing behavior
+ - Analyze customer purchasing behavior
 
-Explore order and book relationships
+ - Explore order and book relationships
 
-Practice JOINs, filtering, aggregation, and subqueries
+ - Practice JOINs, filtering, aggregation, and subqueries
 
 Work with relational data in a real-world scenario
 
 🛠️ Skills Practiced:
-PostgreSQL • SQL • Data Analysis • Joins • Relational Databases • CSV Data Handling
+
+ - PostgreSQL • SQL • Data Analysis • Joins • Relational Databases • CSV Data Handling
 
 📚 This project strengthened my understanding of relational database concepts and practical SQL querying.
